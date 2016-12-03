@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1470659358 source:c:\users\dil\documents\c n c++\a\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1477252465 source:c:\users\dil ware alam\documents\c n c++\a\main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
